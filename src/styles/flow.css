@@ -1,0 +1,11 @@
+.pipeline-wrapper {
+  width: 100vw;
+  height: 70vh;
+  background: linear-gradient(
+    135deg,
+    #0f172a,
+    #1e293b
+  );
+  border-radius: 16px;
+  overflow: hidden;
+}
